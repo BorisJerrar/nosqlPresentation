@@ -1,7 +1,7 @@
 **Presentation crée lors de mon bootcamp sur le nosql et mongodb**
 
 
-![main img presentation](https://github.com/BorisJerrar/nosqlPresentation/blob/master/logoMockup/mainimg.png)
+![main img presentation](https://github.com/BorisJerrar/nosqlPresentation/blob/master/mainimg.png)
 
 ## Contributor
 
